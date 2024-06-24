@@ -7,5 +7,5 @@ Tenho experiência em **análise de dados**, **resolução de problemas** e **tr
 
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
