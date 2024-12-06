@@ -1,9 +1,15 @@
 ## Olá, meu nome é Matheus Rosa👋
 
+# Olá, meu nome é Matheus Rosa 👋
 
-Sou **Desenvolvedor Web Full Stack** e formado em **Engenharia** pela Universidade de São Paulo/USP. Recentemente, concluí o curso de desenvolvimento Web Full Stack pela **Trybe - Escola de Tecnologia**, onde adquiri as principais habilidades práticas em **SQL**, **JavaScript** e **Python**.
+Sou **Desenvolvedor Web Full Stack** com formação em **Engenharia** pela Universidade de São Paulo (USP).  
+Concluí o curso de Desenvolvimento Web Full Stack pela **Trybe - Escola de Tecnologia**, onde desenvolvi habilidades práticas em **SQL**, **JavaScript**, **Python**, entre outras tecnologias essenciais.  
 
-Tenho experiência em **análise de dados**, **resolução de problemas** e **trabalho em equipe**. Atualmente, estou buscando novas oportunidades como **Desenvolvedor Web**, **Desenvolvedor Backend**. Estou comprometido com o aprendizado contínuo e sempre me esforço para estar atualizado com as últimas tendências tecnológicas.
+Tenho experiência em **análise de dados**, **resolução de problemas** e **colaboração em equipe**.  
+Atualmente, estou focado em **Desenvolvimento Back-end** e em busca de novas oportunidades para aplicar meus conhecimentos, criar soluções escaláveis e continuar aprendendo.  
+
+Estou sempre comprometido com o aprendizado contínuo e acompanho as últimas tendências tecnológicas para aprimorar minhas habilidades e contribuir de forma significativa para os projetos em que atuo.  
+
 
 
 <div>
